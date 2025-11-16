@@ -1,0 +1,39 @@
+{
+  "title": "Bienvenido a GlobalSpeak",
+  "sectionTitle": "Tu panel multilingüe",
+  "description": "Cambia el idioma para ver esta página en tu idioma preferido.",
+  "about_title": "Acerca de GlobalSpeak",
+  "about_text": "GlobalSpeak es una capa de traducción ligera para aplicaciones web modernas, impulsada por IA.",
+  "how_it_works_title": "Cómo funciona",
+  "how_it_works_text": "Extraemos tus cadenas de interfaz, las traducimos con IA y marcamos problemas culturales para revisión.",
+  "benefits_title": "¿Por qué usar GlobalSpeak?",
+  "benefits_list": [
+    "Traducciones rápidas y precisas",
+    "Verificación de sensibilidad cultural",
+    "Fácil integración con cualquier frontend",
+    "No se requiere backend"
+  ],
+  "testimonials_title": "Lo que dicen los desarrolladores",
+  "testimonials": [
+    "“GlobalSpeak nos ahorró semanas de trabajo manual de traducción.”",
+    "“¡La función de revisión cultural es revolucionaria!”",
+    "“A nuestros usuarios les encanta el soporte multilingüe.”"
+  ],
+  "faq_title": "Preguntas frecuentes",
+  "faq": [
+    {
+      "q": "¿GlobalSpeak es gratuito?",
+      "a": "Sí, las funciones principales son gratuitas."
+    },
+    {
+      "q": "¿Puedo agregar mis propias traducciones?",
+      "a": "¡Por supuesto! Puedes editar cualquier cadena manualmente."
+    },
+    {
+      "q": "¿Admite idiomas RTL?",
+      "a": "Sí, se admiten completamente el árabe y el hebreo."
+    }
+  ],
+  "cta": "Explorar ahora",
+  "work_in_progress": "Trabajo en progreso"
+}

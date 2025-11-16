@@ -1,0 +1,39 @@
+{
+  "title": "Welcome to GlobalSpeak",
+  "sectionTitle": "Your Multilingual Dashboard",
+  "description": "Switch languages to view this page in your preferred language.",
+  "about_title": "About GlobalSpeak",
+  "about_text": "GlobalSpeak is a lightweight translation layer for modern web apps, powered by AI.",
+  "how_it_works_title": "How It Works",
+  "how_it_works_text": "We extract your UI strings, translate them using AI, and flag cultural issues for review.",
+  "benefits_title": "Why Use GlobalSpeak?",
+  "benefits_list": [
+    "Fast and accurate translations",
+    "Cultural sensitivity checks",
+    "Easy integration with any frontend",
+    "No backend required"
+  ],
+  "testimonials_title": "What Developers Say",
+  "testimonials": [
+    "“GlobalSpeak saved us weeks of manual translation work.”",
+    "“The cultural review feature is a game-changer!”",
+    "“Our users love the multilingual support.”"
+  ],
+  "faq_title": "Frequently Asked Questions",
+  "faq": [
+    {
+      "q": "Is GlobalSpeak free?",
+      "a": "Yes, the core features are free to use."
+    },
+    {
+      "q": "Can I add my own translations?",
+      "a": "Absolutely! You can override or edit any string manually."
+    },
+    {
+      "q": "Does it support RTL languages?",
+      "a": "Yes, Arabic and Hebrew are fully supported."
+    }
+  ],
+  "cta": "Explore Now",
+  "work_in_progress": "Work in progress"
+}
